@@ -3,7 +3,6 @@ habits = [
     ("Read 10 pages", False),
     ("Exercise", True),
     ("Sleep 8 hours", True)
-    ("Meditate", True)
 ]
 
 for habit, completed in habits:
